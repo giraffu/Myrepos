@@ -1,5 +1,0 @@
-E:\repos_C#\MyRepos\MyRepos\bin\Debug\MyRepos.dll
-E:\repos_C#\MyRepos\MyRepos\bin\Debug\MyRepos.pdb
-E:\repos_C#\MyRepos\MyRepos\obj\Debug\MyRepos.csproj.CoreCompileInputs.cache
-E:\repos_C#\MyRepos\MyRepos\obj\Debug\MyRepos.dll
-E:\repos_C#\MyRepos\MyRepos\obj\Debug\MyRepos.pdb
